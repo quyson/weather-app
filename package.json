@@ -1,0 +1,24 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quyson/weather-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quyson/weather-app/issues"
+  },
+  "homepage": "https://github.com/quyson/weather-app#readme",
+  "devDependencies": {
+    "css-loader": "^6.7.2",
+    "style-loader": "^3.3.1",
+    "webpack-cli": "^5.0.0"
+  }
+}
